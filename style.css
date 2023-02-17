@@ -1,0 +1,168 @@
+.body_div {
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar_container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar_btn {
+    color: white;
+    border: none;
+    background-color: rgb(219, 145, 6);
+}
+
+.heading {
+    font-weight: bolder;
+    margin: 40px 0px 40px 0px;
+}
+
+.slide_image {
+    height: 400px;
+    width: 100%;
+}
+
+.span_btn {
+    margin-top: 50px;
+
+}
+
+.shop_btn {
+    width: 125px;
+    height: 40px;
+    color: white;
+    background-color: rgb(219, 145, 6);
+    border: none;
+
+}
+
+.contact_btn {
+    width: 125px;
+    height: 40px;
+    color: white;
+    background-color: #000000;
+    border: none;
+
+}
+
+.services_div {
+    text-align: center;
+    margin: 75px auto;
+}
+
+.card_row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-img-top {
+
+    height: 50px;
+    width: 50px;
+    margin: 40px auto;
+}
+
+.card {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding: 0px 20px;
+}
+
+.card_heading {
+    color: rgb(219, 145, 6);
+}
+
+.client_img {
+    margin-top: 100px;
+}
+
+.read_more_btndiv {
+    text-align: center;
+}
+
+.read_more_btn {
+    margin: 50px auto;
+    width: 125px;
+    height: 40px;
+    color: white;
+    border: none;
+    background-color: #000000;
+    text-align: center;
+}
+
+.Fresh_fruits_heading {
+    margin-bottom: 40px;
+}
+
+.buy_now_btn {
+    margin: 50px auto;
+    width: 125px;
+    height: 40px;
+    color: white;
+    border: none;
+    background-color: #000000;
+    text-align: center;
+}
+
+.input_field {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    outline: none;
+    width: 100%;
+    height: 50px;
+
+}
+.contact_row{
+    display: flex;
+    justify-content: space-between;
+}
+#input_field{
+    margin-top: 50px;
+}
+
+.send_btn {
+    margin: 50px 0px 50px 0px;
+    width: 125px;
+    height: 40px;
+    color: white;
+    background-color: rgb(219, 145, 6);
+    border: none;
+}
+
+.items {
+    margin: 0px;
+}
+
+.logo_div {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+}
+
+.subscribe_btn {
+    width: 125px;
+    height: 40px;
+    color: white;
+    background-color: rgb(219, 145, 6);
+    border: none;
+    margin-top: 10px;
+
+}
+
+.footer {
+    margin-top: 100px;
+}
+
+.text-dark {
+    text-decoration: none;
+}
