@@ -3,15 +3,25 @@
     margin: 0px;
 }
 
-.navbar_container {
+.navbar_brand {
     display: flex;
-    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar_heading {
+    margin: 0px;
 }
 
 .navbar_btn {
     color: white;
     border: none;
     background-color: rgb(219, 145, 6);
+    height: 40px;
+}
+
+.li_item {
+    margin: 0px 10px;
+    font-size: 20px;
 }
 
 .heading {
@@ -117,11 +127,13 @@
     height: 50px;
 
 }
-.contact_row{
+
+.contact_row {
     display: flex;
     justify-content: space-between;
 }
-#input_field{
+
+#input_field {
     margin-top: 50px;
 }
 
