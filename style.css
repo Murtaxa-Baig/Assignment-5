@@ -1,6 +1,7 @@
 .body_div {
     padding: 0px;
     margin: 0px;
+    width: 100%;
 }
 
 .navbar_brand {
@@ -22,6 +23,9 @@
 .li_item {
     margin: 0px 10px;
     font-size: 20px;
+}
+.dashboard{
+    padding-top: 20px;
 }
 
 .heading {
@@ -132,6 +136,9 @@
     display: flex;
     justify-content: space-between;
 }
+.orange_dish{
+    height: 400px;
+}
 
 #input_field {
     margin-top: 50px;
@@ -177,4 +184,20 @@
 
 .text-dark {
     text-decoration: none;
+}
+
+
+
+@media only screen and (max-width: 768px){
+    .slide_image{
+        height: 300px;
+        width: 100%;
+        margin: 20px auto;
+    }
+    .card{
+        margin: 10px auto;
+    }
+    .orange_dish{
+        height: 300px;
+    }
 }
