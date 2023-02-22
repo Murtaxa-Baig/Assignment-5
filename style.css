@@ -91,6 +91,7 @@
 
 .client_img {
     margin-top: 100px;
+    width: 400px;
 }
 
 .read_more_btndiv {
@@ -199,5 +200,8 @@
     }
     .orange_dish{
         height: 300px;
+    }
+    .client_img{
+        width: 300px;
     }
 }
